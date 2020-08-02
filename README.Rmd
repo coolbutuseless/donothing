@@ -1,0 +1,46 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+
+library(donothing)
+```
+
+# donothing
+
+<!-- badges: start -->
+![](https://img.shields.io/badge/cool-useless-green.svg)
+<!-- badges: end -->
+
+The goal of donothing is to ...
+
+## Installation
+
+You can install from [GitHub](https://github.com/coolbutuseless/donothing) with:
+
+``` r
+# install.package('remotes')
+remotes::install_github('coolbutuseless/donothing')
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+```{r example}
+library(donothing)
+```
+
+
+## Related Software
+
+
