@@ -5,7 +5,8 @@
 
 <!-- badges: start -->
 
-![](https://img.shields.io/badge/cool-useless-green.svg)
+![](https://img.shields.io/badge/cool-useless-green.svg) [![R build
+status](https://github.com/coolbutuseless/donothing/workflows/R-CMD-check/badge.svg)](https://github.com/coolbutuseless/donothing/actions)
 <!-- badges: end -->
 
 The goal of donothing is to …
